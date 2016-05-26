@@ -1,3 +1,3 @@
 # trail
-a git demo 
-apportons une modification
+
+Une demo de git qui se passe bien!
